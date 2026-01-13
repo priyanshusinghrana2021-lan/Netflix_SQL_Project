@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shoes Data Analysis using SQL
+# SQL-Based Analysis of Netflix Content Trends
 
 ![Netflix log](https://github.com/priyanshusinghrana2021-lan/Netflix_SQL_Project/blob/main/netflix-logo%20123.avif)
 
