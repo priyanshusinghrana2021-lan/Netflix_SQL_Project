@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shoes Data Analysis using SQL
 
-![Netflix log]()
+![Netflix log](https://github.com/priyanshusinghrana2021-lan/Netflix_SQL_Project/blob/main/netflix-logo%20123.avif)
 
 ## Overview
 This project analyzes Netflix content data using PostgreSQL to gain insights into movies and TV shows based on country (especially India), release year, ratings, genres, and duration. SQL queries are used to identify content trends, distribution patterns, and key metrics for data-driven analysis.
