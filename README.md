@@ -18,12 +18,12 @@ The data for this project is sourced from the kaggle datset.
 -- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Tools & Technologies Used
-PostgreSQL – Used for creating the database, importing data, and performing SQL queries
-SQL – Used for data querying, filtering, aggregation, and analysis
-pgAdmin – PostgreSQL management tool for database operations and query execution
-Kaggle – Source of the Netflix dataset
-GitHub – Version control and project hosting
-CSV File Format – Used for storing and importing dataset
+PostgreSQL – Used for creating the database, importing data, and performing SQL queries.
+SQL – Used for data querying, filtering, aggregation, and analysis.
+pgAdmin – PostgreSQL management tool for database operations and query execution.
+Kaggle – Source of the Netflix dataset.
+GitHub – Version control and project hosting.
+CSV File Format – Used for storing and importing dataset.
 
 ## Schema
 
